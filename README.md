@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justaprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="justaprogrammer" /> </p>
 
-- 🔭 I’m currently working on [Shareable-card generator](https://github.com/justaprogrammer321/Greetingcard)
+- 🔭 I’m currently working on [Shareable-card generator](https://github.com/justaprogrammer321/shareable-card-generator)
 
 - 🌱 I’m currently learning **React,tailwind**
 
